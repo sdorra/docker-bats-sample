@@ -1,4 +1,6 @@
 #!/bin/sh -e
+# installs bats with all required dependencies
+# and executes bats tests.
 
 # variables for bats installation
 BATS_DIR="/tmp/bats"
