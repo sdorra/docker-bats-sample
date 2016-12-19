@@ -9,7 +9,6 @@ BATS_URL="https://github.com/sstephenson/bats/archive/v0.4.0.tar.gz"
 TEST_DIR="/test/bats"
 
 # install required dependencies
-
 install_dependencies() {
   if ! which bash; then
     apk --update add bash
@@ -40,7 +39,6 @@ install_dependencies > /dev/null 2>&1
 install_bats > /dev/null 2>&1
 
 # run tests
-
 echo "running tests ..."
 echo ""
 
