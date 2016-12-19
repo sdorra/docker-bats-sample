@@ -3,7 +3,7 @@ BATS_DIR="/tmp/bats"
 BATS_BIN="${BATS_DIR}/bin/bats"
 BATS_URL="https://github.com/sstephenson/bats/archive/v0.4.0.tar.gz"
 
-TEST_DIR="/tmp/tests"
+TEST_DIR="/test/bats"
 
 # install required dependencies
 
