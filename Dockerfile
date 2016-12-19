@@ -1,4 +1,4 @@
 FROM nginx:1.11-alpine
-MAINTAINER Sebastian Sdorra <sebastian.sdorra@triology.de>
+MAINTAINER Sebastian Sdorra <s.sdorra@gmail.com>
 
 COPY resources /

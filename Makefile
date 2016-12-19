@@ -1,4 +1,4 @@
-IMAGE=docker-sample/hello-world
+IMAGE=sdorra/hello-world
 VERSION=latest
 CONTAINER_NAME=hello_world
 
